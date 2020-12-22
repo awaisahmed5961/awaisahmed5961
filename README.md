@@ -12,7 +12,9 @@
 
 - 📫 How to reach me **awaisahmed5961@gmail.com**
 
-<p align="right">Image here</p>
+<p align="right">
+<img src="https://ibb.co/sHVT3t6https://ibb.co/sHVT3t6" alt="undraw Image Placeholder for programmer" width="150" height="150"/>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
