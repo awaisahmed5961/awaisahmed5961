@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/313By78](https://bit.ly/313By78)
 >
-<p align="right">Image here</p>
 - 💬 Ask me about **React |Vue | Hostings | Software engineering**
 
 - 📫 How to reach me **awaisahmed5961@gmail.com**
 
+<p align="right">Image here</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
