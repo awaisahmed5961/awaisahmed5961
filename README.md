@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **awaisahmed5961@gmail.com**
 
-(img align="right" alt="Coding" width="400" src="https://i.ibb.co/7413ybR/undraw-programming-2svr.png")
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/7413ybR/undraw-programming-2svr.png"/>
 
 <h3 align="left">Languages and Tools:</h3>
 
