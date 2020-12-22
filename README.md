@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Awais Ahmed</h1>
-<h3 align="center">A passionate Software engineer</h3>
-<p align="right">Image here</p>
+<h3 align="center">A passionate Software engineer</h3
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisahmed5961&label=Profile%20views&color=0e75b6&style=flat" alt="awaisahmed5961" /> </p>
 
 - 🔭 I’m currently working on [Zinda Kittab](https://guarded-shelf-88919.herokuapp.com/)
@@ -8,7 +7,8 @@
 - 🌱 I’m currently learning **Web Assembly development with c++**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/313By78](https://bit.ly/313By78)
-
+>
+<p align="right">Image here</p>
 - 💬 Ask me about **React |Vue | Hostings | Software engineering**
 
 - 📫 How to reach me **awaisahmed5961@gmail.com**
