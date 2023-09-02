@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software engineer</h3
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisahmed5961&label=Profile%20views&color=0e75b6&style=flat" alt="awaisahmed5961" /> </p>
 
-- 🔭 I’m currently working as a Full Stack Freelancer.
+- 🔭 I’m currently working as a Full Stack Developer.
 
 - 🌱 I’m currently learning **Web Assembly development with c++**
 
